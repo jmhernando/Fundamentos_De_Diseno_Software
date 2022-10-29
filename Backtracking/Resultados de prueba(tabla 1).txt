@@ -1,0 +1,405 @@
+
+Prueba para camino Abierto
+La dimensión del tablero es: 3x3
+Para este tablero: No existe camino abierto
+
+0    0    0    
+0    0    0    
+0    0    0    
+Tiempo en realizarse el camino abierto: 50300 ns
+Prueba para camino Cerrado
+La dimensión del tablero es: 3x3
+Para este tablero: No existe camino cerrado
+
+0    0    0    
+0    0    0    
+0    0    0    
+Tiempo en realizarse el camino cerrado: 5370500 ns
+Prueba para camino Abierto
+La dimensión del tablero es: 4x4
+Para este tablero: No existe camino abierto
+
+0    0    0    0    
+0    0    0    0    
+0    0    0    0    
+0    0    0    0    
+Tiempo en realizarse el camino abierto: 3961500 ns
+Prueba para camino Cerrado
+La dimensión del tablero es: 4x4
+Para este tablero: No existe camino cerrado
+
+0    0    0    0    
+0    0    0    0    
+0    0    0    0    
+0    0    0    0    
+Tiempo en realizarse el camino cerrado: 4969500 ns
+Prueba para camino Abierto
+La dimensión del tablero es: 5x5
+Para este tablero: Existe camino abierto
+
+21    18    3    12    1    
+8    13    20    17    4    
+19    22    7    2    11    
+14    9    24    5    16    
+23    6    15    10    25    
+Tiempo en realizarse el camino abierto: 4701400 ns
+Prueba para camino Cerrado
+La dimensión del tablero es: 5x5
+Para este tablero: No existe camino cerrado
+
+0    0    0    0    0    
+0    0    0    0    0    
+0    0    0    0    0    
+0    0    0    0    0    
+0    0    0    0    0    
+Tiempo en realizarse el camino cerrado: 1832972600 ns
+Prueba para camino Abierto
+La dimensión del tablero es: 6x6
+Para este tablero: Existe camino abierto
+
+23    30    13    6    1    4    
+32    15    24    3    12    7    
+29    22    31    14    5    2    
+16    33    18    25    8    11    
+21    28    35    10    19    26    
+34    17    20    27    36    9    
+Tiempo en realizarse el camino abierto: 582652800 ns
+Prueba para camino Cerrado
+La dimensión del tablero es: 6x6
+Para este tablero: Existe camino cerrado
+
+35    16    13    6    1    4    
+14    27    36    3    12    7    
+17    34    15    26    5    2    
+28    25    30    21    8    11    
+33    18    23    10    31    20    
+24    29    32    19    22    9    
+Tiempo en realizarse el camino cerrado: 700548400 ns
+Prueba para camino Abierto
+La dimensión del tablero es: 3x10
+Para este tablero: Existe camino abierto
+
+25    22    27    14    1    16    19    8    3    6    
+30    13    24    21    28    11    2    5    18    9    
+23    26    29    12    15    20    17    10    7    4    
+Tiempo en realizarse el camino abierto: 3772600 ns
+Prueba para camino Cerrado
+La dimensión del tablero es: 3x10
+Para este tablero: Existe camino cerrado
+
+27    24    21    14    1    16    19    8    3    6    
+22    13    26    29    20    11    2    5    18    9    
+25    28    23    12    15    30    17    10    7    4    
+Tiempo en realizarse el camino cerrado: 2605300 ns
+Prueba para camino Abierto
+La dimensión del tablero es: 3x12
+Para este tablero: Existe camino abierto
+
+31    34    21    24    1    26    15    18    3    6    9    12    
+36    23    32    29    20    17    2    27    14    11    4    7    
+33    30    35    22    25    28    19    16    5    8    13    10    
+Tiempo en realizarse el camino abierto: 111000 ns
+Prueba para camino Cerrado
+La dimensión del tablero es: 3x12
+Para este tablero: Existe camino cerrado
+
+27    24    21    34    1    32    15    18    3    6    9    12    
+22    35    26    29    20    17    2    31    14    11    4    7    
+25    28    23    36    33    30    19    16    5    8    13    10    
+Tiempo en realizarse el camino cerrado: 402400 ns
+Prueba para camino Abierto
+La dimensión del tablero es: 5x6
+Para este tablero: Existe camino abierto
+
+17    26    21    6    1    4    
+20    11    18    3    22    7    
+27    16    25    12    5    2    
+10    19    14    29    8    23    
+15    28    9    24    13    30    
+Tiempo en realizarse el camino abierto: 22192600 ns
+Prueba para camino Cerrado
+La dimensión del tablero es: 5x6
+Para este tablero: Existe camino cerrado
+
+29    16    5    20    1    14    
+6    25    30    15    10    21    
+17    28    19    4    13    2    
+24    7    26    11    22    9    
+27    18    23    8    3    12    
+Tiempo en realizarse el camino cerrado: 2107351900 ns
+Prueba para camino Abierto
+La dimensión del tablero es: 3x4
+Para este tablero: Existe camino abierto
+
+1    4    7    10    
+12    9    2    5    
+3    6    11    8    
+Tiempo en realizarse el camino abierto: 2700 ns
+Prueba para camino Cerrado
+La dimensión del tablero es: 3x4
+Para este tablero: No existe camino cerrado
+
+0    0    0    0    
+0    0    0    0    
+0    0    0    0    
+Tiempo en realizarse el camino cerrado: 66700 ns
+Prueba para camino Abierto
+La dimensión del tablero es: 3x5
+Para este tablero: No existe camino abierto
+
+0    0    0    0    0    
+0    0    0    0    0    
+0    0    0    0    0    
+Tiempo en realizarse el camino abierto: 369600 ns
+Prueba para camino Cerrado
+La dimensión del tablero es: 3x5
+Para este tablero: No existe camino cerrado
+
+0    0    0    0    0    
+0    0    0    0    0    
+0    0    0    0    0    
+Tiempo en realizarse el camino cerrado: 804400 ns
+Prueba para camino Abierto
+La dimensión del tablero es: 3x6
+Para este tablero: No existe camino abierto
+
+0    0    0    0    0    0    
+0    0    0    0    0    0    
+0    0    0    0    0    0    
+Tiempo en realizarse el camino abierto: 1973600 ns
+Prueba para camino Cerrado
+La dimensión del tablero es: 3x6
+Para este tablero: No existe camino cerrado
+
+0    0    0    0    0    0    
+0    0    0    0    0    0    
+0    0    0    0    0    0    
+Tiempo en realizarse el camino cerrado: 1551500 ns
+Prueba para camino Abierto
+La dimensión del tablero es: 3x8
+Para este tablero: Existe camino abierto
+
+11    8    13    16    1    4    23    20    
+14    17    10    7    22    19    2    5    
+9    12    15    18    3    6    21    24    
+Tiempo en realizarse el camino abierto: 113000 ns
+Prueba para camino Cerrado
+La dimensión del tablero es: 3x8
+Para este tablero: No existe camino cerrado
+
+0    0    0    0    0    0    0    0    
+0    0    0    0    0    0    0    0    
+0    0    0    0    0    0    0    0    
+Tiempo en realizarse el camino cerrado: 64330900 ns
+Prueba para camino Abierto
+La dimensión del tablero es: 4x6
+Para este tablero: Existe camino abierto
+
+9    14    7    22    1    18    
+12    23    10    19    4    21    
+15    8    13    6    17    2    
+24    11    16    3    20    5    
+Tiempo en realizarse el camino abierto: 17225400 ns
+Prueba para camino Cerrado
+La dimensión del tablero es: 4x6
+Para este tablero: No existe camino cerrado
+
+0    0    0    0    0    0    
+0    0    0    0    0    0    
+0    0    0    0    0    0    
+0    0    0    0    0    0    
+Tiempo en realizarse el camino cerrado: 684822600 ns
+Prueba para camino Abierto
+La dimensión del tablero es: 4x3
+Para este tablero: Existe camino abierto
+
+1    8    3    
+4    11    6    
+7    2    9    
+10    5    12    
+Tiempo en realizarse el camino abierto: 12500 ns
+Prueba para camino Cerrado
+La dimensión del tablero es: 4x3
+Para este tablero: No existe camino cerrado
+
+0    0    0    
+0    0    0    
+0    0    0    
+0    0    0    
+Tiempo en realizarse el camino cerrado: 191200 ns
+Prueba para camino Abierto
+La dimensión del tablero es: 5x3
+Para este tablero: No existe camino abierto
+
+0    0    0    
+0    0    0    
+0    0    0    
+0    0    0    
+0    0    0    
+Tiempo en realizarse el camino abierto: 342200 ns
+Prueba para camino Cerrado
+La dimensión del tablero es: 5x3
+Para este tablero: No existe camino cerrado
+
+0    0    0    
+0    0    0    
+0    0    0    
+0    0    0    
+0    0    0    
+Tiempo en realizarse el camino cerrado: 382000 ns
+Prueba para camino Abierto
+La dimensión del tablero es: 6x3
+Para este tablero: No existe camino abierto
+
+0    0    0    
+0    0    0    
+0    0    0    
+0    0    0    
+0    0    0    
+0    0    0    
+Tiempo en realizarse el camino abierto: 2030800 ns
+Prueba para camino Cerrado
+La dimensión del tablero es: 6x3
+Para este tablero: No existe camino cerrado
+
+0    0    0    
+0    0    0    
+0    0    0    
+0    0    0    
+0    0    0    
+0    0    0    
+Tiempo en realizarse el camino cerrado: 1436700 ns
+Prueba para camino Abierto
+La dimensión del tablero es: 8x3
+Para este tablero: Existe camino abierto
+
+1    12    5    
+4    9    2    
+11    6    13    
+8    3    10    
+23    14    7    
+20    17    22    
+15    24    19    
+18    21    16    
+Tiempo en realizarse el camino abierto: 38700 ns
+Prueba para camino Cerrado
+La dimensión del tablero es: 8x3
+Para este tablero: No existe camino cerrado
+
+0    0    0    
+0    0    0    
+0    0    0    
+0    0    0    
+0    0    0    
+0    0    0    
+0    0    0    
+0    0    0    
+Tiempo en realizarse el camino cerrado: 99767200 ns
+Prueba para camino Abierto
+La dimensión del tablero es: 6x4
+Para este tablero: Existe camino abierto
+
+1    6    15    18    
+14    17    2    5    
+7    4    19    16    
+22    13    10    3    
+11    8    23    20    
+24    21    12    9    
+Tiempo en realizarse el camino abierto: 1931100 ns
+Prueba para camino Cerrado
+La dimensión del tablero es: 6x4
+Para este tablero: No existe camino cerrado
+
+0    0    0    0    
+0    0    0    0    
+0    0    0    0    
+0    0    0    0    
+0    0    0    0    
+0    0    0    0    
+Tiempo en realizarse el camino cerrado: 732431500 ns
+Prueba para camino Abierto
+La dimensión del tablero es: 6x5
+Para este tablero: Existe camino abierto
+
+19    10    3    22    1    
+28    23    20    9    4    
+11    18    27    2    21    
+24    29    14    5    8    
+17    12    7    26    15    
+30    25    16    13    6    
+Tiempo en realizarse el camino abierto: 112767100 ns
+Prueba para camino Cerrado
+La dimensión del tablero es: 6x5
+Para este tablero: Existe camino cerrado
+
+29    20    11    4    1    
+12    3    30    21    10    
+19    28    9    2    5    
+8    13    24    17    22    
+27    18    15    6    25    
+14    7    26    23    16    
+Tiempo en realizarse el camino cerrado: 1769994700 ns
+Prueba para camino Abierto
+La dimensión del tablero es: 10x3
+Para este tablero: Existe camino abierto
+
+1    12    5    
+4    15    2    
+13    6    11    
+16    3    14    
+27    10    7    
+8    17    28    
+29    26    9    
+20    23    18    
+25    30    21    
+22    19    24    
+Tiempo en realizarse el camino abierto: 6754500 ns
+Prueba para camino Cerrado
+La dimensión del tablero es: 10x3
+Para este tablero: Existe camino cerrado
+
+1    26    29    
+28    7    2    
+25    30    27    
+8    3    6    
+5    24    19    
+20    9    4    
+23    18    21    
+12    15    10    
+17    22    13    
+14    11    16    
+Tiempo en realizarse el camino cerrado: 44057200 ns
+Prueba para camino Abierto
+La dimensión del tablero es: 12x3
+Para este tablero: Existe camino abierto
+
+1    12    5    
+4    9    2    
+11    6    13    
+8    3    10    
+19    14    7    
+16    23    18    
+25    20    15    
+22    17    24    
+35    26    21    
+32    29    34    
+27    36    31    
+30    33    28    
+Tiempo en realizarse el camino abierto: 42056200 ns
+Prueba para camino Cerrado
+La dimensión del tablero es: 12x3
+Para este tablero: Existe camino cerrado
+
+1    32    35    
+34    7    2    
+31    36    33    
+8    3    6    
+5    30    9    
+18    15    4    
+29    10    17    
+16    19    14    
+13    28    11    
+22    25    20    
+27    12    23    
+24    21    26    
+Tiempo en realizarse el camino cerrado: 1456421000 ns
